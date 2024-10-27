@@ -1,0 +1,20 @@
+Natural Language Processing (NLP) adalah
+    cabang dari kecerdasan buatan (AI)
+    yang memungkinkan komputer untuk memahami, menafsirkan, dan merespons bahasa manusia.
+NLP mengombinasikan komputasi linguistik dengan model statistika, machine learning, dan deep learning. 
+*Machine Language (Bahasa Mesin)
+    Machine Language, atau bahasa mesin, 
+    adalah bahasa pemrograman tingkat rendah yang digunakan oleh komputer
+    untuk menjalankan instruksi secara langsung. 
+    Bahasa ini terdiri dari kode biner (0 dan 1) yang dapat dipahami oleh prosesor komputer.
+    Machine Language adalah dasar dari semua bahasa pemrograman lainnya dan sangat penting
+    untuk operasi perangkat keras komputer
+Contoh NLP berikutnya adalah keberadaan Google Translate. Mesin alih bahasa ini sangat berguna karena mampu mengalihbahasakan kata-kata dalam satu bahasa ke bahasa lainnya. 
+* Sumber :
+    1.ibm.com
+    2.blog.algorit.ma
+    3.blog.bitlabs.id
+    4.megabagus.id
+    5.djkn.kemenkeu.go.id
+    6.pintu.co.id
+    7.blog.algorit.ma
